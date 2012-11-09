@@ -11,6 +11,7 @@ namespace Gitprueba
         {
 
         Console.WriteLine("Hola Bergelo");
+        Console.WriteLine("Hola Pacout");
         }
     }
 }
